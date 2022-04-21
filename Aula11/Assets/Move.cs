@@ -3,7 +3,7 @@ using UnityEngine;
 public class Move : MonoBehaviour
 {
     Rigidbody _rb;
-    public float speed = 5.0f;
+    public float speed = 10.0f;
 
     void Start()
     {
